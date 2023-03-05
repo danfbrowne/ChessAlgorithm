@@ -1,2 +1,2 @@
 # chessalgorithm
-Code contributions for the backend of a chess project.
+Code contributions for the backend of the Chessmate Senior project.
